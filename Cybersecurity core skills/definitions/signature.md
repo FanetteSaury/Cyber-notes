@@ -1,0 +1,1 @@
+La **signature d'un logiciel**, dans le contexte de la cybersécurité, est une séquence unique de caractères ou un motif de code qui identifie un programme malveillant (comme un virus, un ver ou un cheval de Troie) ou une version spécifique d'un logiciel. C'est un peu comme l'empreinte digitale numérique d'un logiciel.
