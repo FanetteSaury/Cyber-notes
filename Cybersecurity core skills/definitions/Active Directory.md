@@ -1,0 +1,4 @@
+A directory is a hierarchical structure that stores information about objects on a network. A directory service such as **Microsoft Active Directory Domain Services (AD DS)** is a mthod of storing directory data made available to network users and administrators. For example, AD DS stores information about user accounts ie users, groups, passwords, phone numbers, ...
+AD DS also provides a way for authorized users on this same network to access that user account information.
+
+*source, see more: https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview* 
