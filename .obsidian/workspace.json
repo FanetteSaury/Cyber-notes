@@ -4,165 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6d6de4b7485b3b1b",
+        "id": "098abb9b3a39f82c",
         "type": "tabs",
         "children": [
           {
-            "id": "4b8790e7847030b1",
+            "id": "78adecd7d2650aed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity core skills/Cybersecurity index.md",
+                "file": "Cybersecurity core skills/Wireshark/Wireshark basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cybersecurity index"
-            }
-          },
-          {
-            "id": "abcdf1b72d550989",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/models/OSI Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OSI Model"
-            }
-          },
-          {
-            "id": "df6ea1e19522ea26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/models/TCP IP Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TCP IP Model"
-            }
-          },
-          {
-            "id": "b387a58832d55336",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/protocols/ICMP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ICMP"
-            }
-          },
-          {
-            "id": "f52d591d4a1a5112",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/protocols/protocols index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "protocols index"
-            }
-          },
-          {
-            "id": "a7cbb9b028c06e3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/Windows/Windows AD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Windows AD"
-            }
-          },
-          {
-            "id": "456e7bd718b27256",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "05cca23deb8b6a61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/definitions/EDR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EDR"
-            }
-          },
-          {
-            "id": "5b24aae01b4001ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/definitions/RFC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RFC"
-            }
-          },
-          {
-            "id": "045a6ae8351ed202",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/models/TCP IP Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TCP IP Model"
-            }
-          },
-          {
-            "id": "900dbd89ae5ce117",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/models/TCP IP Model.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TCP IP Model"
+              "title": "Wireshark basics"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nsloo",
+                "query": "packet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,11 +74,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "f135bf3c81b89861",
@@ -340,52 +201,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "456e7bd718b27256",
+  "active": "78adecd7d2650aed",
   "lastOpenFiles": [
-    "Cybersecurity core skills/hardware/hardware index.md",
-    "Cybersecurity core skills/hardware/network card.md",
-    "Cybersecurity core skills/models/models index.md",
-    "Cybersecurity core skills/networking/networking index.md",
-    "Cybersecurity core skills/protocols/protocols index.md",
-    "Cybersecurity core skills/stories/stories index.md",
-    "Cybersecurity core skills/Windows/Windows index.md",
-    "Cybersecurity core skills/definitions/definitions index.md",
-    "Cybersecurity core skills/Cybersecurity index.md",
-    "README.md",
-    "Raw index.base",
-    "Cybersecurity core skills/Windows/Windows AD.md",
-    "Cybersecurity core skills/Windows/Windows PowerShell.md",
-    "Cybersecurity core skills/Windows",
-    "Cybersecurity core skills/Windows/Windows cmd.md",
-    "Cybersecurity core skills/topics/Roadmaps.md",
-    "definitions.md",
-    "Cybersecurity core skills/protocols/ICMP.md",
-    "Cybersecurity core skills/models/TCP IP Model.md",
-    "Cybersecurity core skills/models/OSI Model.md",
-    "Cybersecurity core skills/definitions/XDR.md",
+    "Pasted image 20250924165332.png",
+    "Pasted image 20250924164624.png",
+    "Pasted image 20250924164527.png",
+    "Cybersecurity core skills/definitions/IDS.md",
+    "Cybersecurity core skills/Wireshark/Wireshark basics.md",
+    "Pasted image 20250924163857.png",
+    "How to secure Network traffic - 3 ways.md",
+    "Cybersecurity core skills/Wireshark",
+    "Cybersecurity core skills/stories/20250719.md",
+    "VPN.md",
+    "5f04259cf9bf5b57aed2c476-1721903568757.svg",
+    "5f04259cf9bf5b57aed2c476-1721903538365.svg",
+    "Cybersecurity core skills/protocols/SFTP.md",
+    "Cybersecurity core skills/protocols/FTP.md",
+    "Cybersecurity core skills/protocols/SMTP.md",
+    "Cybersecurity core skills/protocols/SSH.md",
+    "Cybersecurity core skills/protocols/HTTP.md",
+    "Cybersecurity core skills/protocols/TLS.md",
+    "Cybersecurity core skills/protocols/IMAP.md",
+    "Pasted image 20250924122901.png",
+    "Cybersecurity core skills/protocols/POP3.md",
+    "Cybersecurity core skills/protocols/SNMP.md",
     "Cybersecurity core skills/protocols/TCP.md",
-    "Cybersecurity core skills/definitions/RFC.md",
-    "Cybersecurity core skills/definitions/EDR.md",
+    "Cybersecurity core skills/protocols/ICMP.md",
+    "Cybersecurity core skills/protocols/DNS.md",
+    "Cybersecurity core skills/protocols/ARP.md",
+    "Cybersecurity core skills/protocols/UDP.md",
+    "Cybersecurity core skills/Windows/Windows PowerShell.md",
+    "Raw index.base",
+    "Cybersecurity core skills/models/OSI Model.md",
+    "Cybersecurity core skills/models/TCP IP Model.md",
+    "Cybersecurity core skills/models/OSI vs TCP IP model.md",
+    "Cybersecurity core skills/protocols/README.md",
+    "Cybersecurity core skills/hardware/hardware index.md",
+    "Cybersecurity core skills/Windows",
     "Business/images/Pasted image 20250718152721.png",
-    "Business/topics/What is PMF (Product-Market-Fit).md",
-    "Business/stories/20250718.md",
-    "Cybersecurity core skills/networking/DNS.md",
     "images/osi-model.gif",
     "images/Pasted image 20250924095321.png",
     "images/osi-model 3.gif",
-    "images/osi-model 2.gif",
-    "images/osi-model 1.gif",
     "Cybersecurity core skills/models",
     "Cybersecurity core skills/protocols/Untitled.base",
     "PowerShell",
-    "Cybersecurity core skills/protocols/Pasted image 20250923144837.png",
-    "images/Pasted image 20250923144423.png",
-    "images/Pasted image 20250923144414.png",
-    "images/Pasted image 20250923144319.png",
     "Cybersecurity core skills/networking",
     "Virtualization",
     "Cybersecurity core skills/hardware",
-    "OS/topics",
-    "OS/stories"
+    "OS/topics"
   ]
 }
