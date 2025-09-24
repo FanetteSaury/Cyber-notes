@@ -9,7 +9,7 @@
 ## Network Troubleshooting
 - `ipconfig`
 - `ping`
-- `nslookup` ❤️ // todo learn
+- `nslookup` ❤️ 👉 to get the IP address of a domain name
 	- - `-a` displays all established connections and listening ports
 	- `-p` shows the program associated with each listening port and established connection
 	- `-o` reveals the process ID (PID) associated with the connection

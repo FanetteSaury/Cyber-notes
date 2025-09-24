@@ -4,431 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "57a82c540bb24fb5",
+        "id": "6d6de4b7485b3b1b",
         "type": "tabs",
         "children": [
           {
-            "id": "493b56e4a5f0138e",
+            "id": "4b8790e7847030b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity core skills/stories/20250722.md",
+                "file": "Cybersecurity core skills/protocols/TCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250722"
+              "title": "TCP"
             }
           },
           {
-            "id": "7a898896849568b0",
+            "id": "045a6ae8351ed202",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity core skills/definitions/antivirus.md",
+                "file": "Cybersecurity core skills/models/TCP IP Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "antivirus"
+              "title": "TCP IP Model"
             }
           },
           {
-            "id": "04903996d15f644c",
+            "id": "900dbd89ae5ce117",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business/stories/20250718.md",
+                "file": "Cybersecurity core skills/models/TCP IP Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250718"
-            }
-          },
-          {
-            "id": "934bb4ec21dcd393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/stories/20250719.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250719"
-            }
-          },
-          {
-            "id": "c0dba9474f5bf6d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/definitions/antivirus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "antivirus"
-            }
-          },
-          {
-            "id": "517ce2aa5c2b053e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/definitions/firewall.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "firewall"
-            }
-          },
-          {
-            "id": "71e36346f223fdc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/definitions/firewall.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "firewall"
-            }
-          },
-          {
-            "id": "586dd1754b728da6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/definitions/modem vs router.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "modem vs router"
-            }
-          },
-          {
-            "id": "425caab42c7eeefc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Virtualization/Type 2 and type 3 virtualization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Type 2 and type 3 virtualization"
-            }
-          },
-          {
-            "id": "b342593d81fb9108",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/definitions/SOAR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SOAR"
-            }
-          },
-          {
-            "id": "5d3d917806cd29d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AD"
-            }
-          },
-          {
-            "id": "bf043d0bb34fe5a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AD"
-            }
-          },
-          {
-            "id": "fa4bb62a7b478fcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AD"
-            }
-          },
-          {
-            "id": "f3961e416578ae7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AD"
-            }
-          },
-          {
-            "id": "99e6aab638d2fb32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AD"
-            }
-          },
-          {
-            "id": "9c8a12b60816e0c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows PowerShell.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Windows PowerShell"
-            }
-          },
-          {
-            "id": "8982441e40e75915",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows PowerShell.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Windows PowerShell"
-            }
-          },
-          {
-            "id": "2792c736205e3df5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows PowerShell.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Windows PowerShell"
-            }
-          },
-          {
-            "id": "e7cc5e4c2c5c4155",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows PowerShell.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Windows PowerShell"
-            }
-          },
-          {
-            "id": "8a272f2b635d4fa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/protocols/Kerberos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kerberos"
-            }
-          },
-          {
-            "id": "30ccda671e6bb7e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows PowerShell.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Windows PowerShell"
-            }
-          },
-          {
-            "id": "b372c25ec43ec5f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/protocols/ARP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ARP"
-            }
-          },
-          {
-            "id": "f4933df2eb013d19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ICMP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ICMP"
-            }
-          },
-          {
-            "id": "52010e3c70837e94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/definitions/SOAR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SOAR"
-            }
-          },
-          {
-            "id": "78bc32c94cb80e80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/definitions/EDR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EDR"
-            }
-          },
-          {
-            "id": "1b603f0fd9d7d1d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/definitions/RFC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RFC"
-            }
-          },
-          {
-            "id": "5d67ec38841a6bcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/definitions/SOAR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SOAR"
-            }
-          },
-          {
-            "id": "c260f459201d8034",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/definitions/EDR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EDR"
-            }
-          },
-          {
-            "id": "66a1f8840e6bffdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/definitions/SOAR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SOAR"
-            }
-          },
-          {
-            "id": "ed8e4bf99958439b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity core skills/definitions/SOC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SOC"
+              "title": "TCP IP Model"
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -460,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Cybersecurity101-CommandLine",
+                "query": "nsloo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -606,53 +228,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4933df2eb013d19",
+  "active": "09cd98aba51f7668",
   "lastOpenFiles": [
+    "Business/topics/What is PMF (Product-Market-Fit).md",
+    "Business/stories/20250718.md",
+    "Cybersecurity core skills/networking/DNS.md",
+    "Cybersecurity core skills/protocols/TCP.md",
+    "Cybersecurity core skills/definitions/SOC.md",
+    "Cybersecurity core skills/protocols/ICMP.md",
+    "Untitled.md",
+    "Windows cmd.md",
+    "images/osi-model.gif",
+    "Cybersecurity core skills/models/OSI vs TCP IP model.md",
+    "Cybersecurity core skills/models/TCP IP Model.md",
+    "Cybersecurity core skills/models/OSI Model.md",
+    "images/Pasted image 20250924095321.png",
+    "images/osi-model 3.gif",
+    "images/osi-model 2.gif",
+    "images/osi-model 1.gif",
+    "Cybersecurity core skills/models",
+    "Cybersecurity core skills/definitions/Active Directory.md",
+    "Untitled.base",
+    "Cybersecurity core skills/protocols/UDP.md",
     "Cybersecurity core skills/protocols/ARP.md",
-    "ICMP.md",
+    "Cybersecurity core skills/definitions/RFC.md",
     "Windows PowerShell.md",
     "Cybersecurity core skills/protocols/IP.md",
     "Cybersecurity core skills/protocols/Untitled.base",
     "Cybersecurity core skills/protocols/Kerberos.md",
-    "Windows cmd.md",
     "AD.md",
     "PowerShell",
     "Cybersecurity core skills/protocols/Pasted image 20250923144837.png",
     "Cybersecurity core skills/protocols/NetNTLM.md",
-    "Pasted image 20250923144423.png",
-    "Pasted image 20250923144414.png",
+    "images/Pasted image 20250923144423.png",
+    "images/Pasted image 20250923144414.png",
     "images/Pasted image 20250923144319.png",
     "images/Pasted image 20250923143652.png",
-    "images/Pasted image 20250923140935.png",
     "Cybersecurity core skills/protocols/SNMP.md",
-    "Cybersecurity core skills/protocols/UDP.md",
-    "images/Pasted image 20250923142506.png",
-    "images/Pasted image 20250923142446.png",
-    "images/Pasted image 20250923140957.png",
-    "images/Pasted image 20250923140950.png",
-    "Cybersecurity core skills/definitions/Active Directory.md",
     "Cybersecurity core skills/definitions/SOAR.md",
     "Cybersecurity core skills/networking/WAN-MAN-LAN-PAN.md",
     "Cybersecurity core skills/networking/VLAN.md",
-    "Cybersecurity core skills/networking/DNS.md",
     "Cybersecurity core skills/definitions/firewall.md",
     "Cybersecurity core skills/definitions/OS.md",
-    "Cybersecurity core skills/definitions/modem vs router.md",
     "Cybersecurity core skills/networking",
-    "Virtualization/Type 2 and type 3 virtualization.md",
     "Virtualization",
-    "Cybersecurity core skills/hardware/network card.md",
     "Cybersecurity core skills/hardware",
-    "Cybersecurity core skills/definitions/antivirus.md",
-    "Cybersecurity core skills/stories/20250805.md",
-    "Cybersecurity core skills/stories/20250719.md",
-    "OS/stories/20250724.md",
-    "signatures.md",
-    "Untitled 1.md",
     "OS/topics",
     "OS/stories",
-    "OS/images",
-    "OS",
-    "Cybersecurity core skills/protocols"
+    "OS/images"
   ]
 }
