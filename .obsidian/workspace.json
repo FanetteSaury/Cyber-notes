@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity core skills/hardware/hardware index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hardware index"
+              "title": "README"
             }
           },
           {
@@ -342,8 +342,8 @@
   },
   "active": "456e7bd718b27256",
   "lastOpenFiles": [
-    "Cybersecurity core skills/hardware/network card.md",
     "Cybersecurity core skills/hardware/hardware index.md",
+    "Cybersecurity core skills/hardware/network card.md",
     "Cybersecurity core skills/models/models index.md",
     "Cybersecurity core skills/networking/networking index.md",
     "Cybersecurity core skills/protocols/protocols index.md",
