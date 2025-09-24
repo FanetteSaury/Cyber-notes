@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity core skills/Cybersecurity.md.md",
+                "file": "Cybersecurity core skills/Cybersecurity index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cybersecurity.md"
+              "title": "Cybersecurity index"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity core skills/protocols/protocols.md.md",
+                "file": "Cybersecurity core skills/protocols/protocols index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "protocols.md"
+              "title": "protocols index"
             }
           },
           {
@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "Cybersecurity core skills/hardware/hardware index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "hardware index"
             }
           },
           {
@@ -342,26 +342,26 @@
   },
   "active": "456e7bd718b27256",
   "lastOpenFiles": [
+    "Cybersecurity core skills/hardware/network card.md",
+    "Cybersecurity core skills/hardware/hardware index.md",
+    "Cybersecurity core skills/models/models index.md",
+    "Cybersecurity core skills/networking/networking index.md",
+    "Cybersecurity core skills/protocols/protocols index.md",
+    "Cybersecurity core skills/stories/stories index.md",
+    "Cybersecurity core skills/Windows/Windows index.md",
+    "Cybersecurity core skills/definitions/definitions index.md",
+    "Cybersecurity core skills/Cybersecurity index.md",
+    "README.md",
     "Raw index.base",
-    "Cybersecurity core skills/definitions/definitions.md.md",
-    "Cybersecurity core skills/Cybersecurity.md.md",
-    "README.md.md",
-    "Cybersecurity core skills/Windows/Windows.md.md",
     "Cybersecurity core skills/Windows/Windows AD.md",
     "Cybersecurity core skills/Windows/Windows PowerShell.md",
     "Cybersecurity core skills/Windows",
     "Cybersecurity core skills/Windows/Windows cmd.md",
     "Cybersecurity core skills/topics/Roadmaps.md",
     "definitions.md",
-    "Cybersecurity core skills/stories/stories.md.md",
-    "Cybersecurity core skills/protocols/protocols.md.md",
     "Cybersecurity core skills/protocols/ICMP.md",
-    "Cybersecurity core skills/networking/networking.md.md",
     "Cybersecurity core skills/models/TCP IP Model.md",
-    "Cybersecurity core skills/models/models.md.md",
     "Cybersecurity core skills/models/OSI Model.md",
-    "Cybersecurity core skills/hardware/network card.md",
-    "Cybersecurity core skills/hardware/hardware.md.md",
     "Cybersecurity core skills/definitions/XDR.md",
     "Cybersecurity core skills/protocols/TCP.md",
     "Cybersecurity core skills/definitions/RFC.md",
