@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity core skills/Wireshark/Wireshark basics.md",
+                "file": "Cybersecurity core skills/tools/Wireshark/Wireshark basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Wireshark basics"
             }
+          },
+          {
+            "id": "c02b1268b3aeb16c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity core skills/tools/Tcpdump/Tcpdump basics.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tcpdump basics"
+            }
+          },
+          {
+            "id": "86c4dccb99a1fd00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity core skills/Cryptography/Encryption types.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Encryption types"
+            }
+          },
+          {
+            "id": "b57d7d1d45ab1bd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity core skills/protocols/HTTP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTTP"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,13 +117,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "f135bf3c81b89861",
@@ -201,53 +242,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78adecd7d2650aed",
+  "active": "c02b1268b3aeb16c",
   "lastOpenFiles": [
-    "Pasted image 20250924165332.png",
-    "Pasted image 20250924164624.png",
-    "Pasted image 20250924164527.png",
+    "Cybersecurity core skills/tools/tcpdump-zine-julia-evans.pdf",
+    "Cybersecurity core skills/tools/Tcpdump/Tcpdump basics.md",
+    "Pasted image 20250925143640.png",
+    "Cybersecurity core skills/tools/Wireshark/Wireshark basics.md",
+    "Cybersecurity core skills/tools/Tcpdump",
+    "Cybersecurity core skills/protocols/HTTP.md",
+    "Cybersecurity core skills/protocols/TLS.md",
+    "Pasted image 20250925123156.png",
+    "Pasted image 20250925123150.png",
+    "Pasted image 20250925123144.png",
+    "Pasted image 20250925123034.png",
+    "Pasted image 20250925123006.png",
+    "Pasted image 20250925122942.png",
+    "Pasted image 20250925122938.png",
+    "Pasted image 20250925122933.png",
+    "Cybersecurity core skills/protocols/TCP.md",
+    "Pasted image 20250925105822.png",
+    "Cybersecurity core skills/tools/John the Ripper.md",
+    "Cybersecurity core skills/Cryptography/Public Key Cryptography Basics.md",
+    "John.md",
+    "Cybersecurity core skills/tools",
+    "Cybersecurity core skills/Cryptography/Untitled.base",
+    "Cybersecurity core skills/Cryptography/Encryption types.md",
+    "Cybersecurity core skills/Cryptography",
     "Cybersecurity core skills/definitions/IDS.md",
-    "Cybersecurity core skills/Wireshark/Wireshark basics.md",
-    "Pasted image 20250924163857.png",
-    "How to secure Network traffic - 3 ways.md",
-    "Cybersecurity core skills/Wireshark",
+    "Cybersecurity core skills/networking/How to secure Network traffic - 3 ways.md",
+    "Cybersecurity core skills/tools/Wireshark",
     "Cybersecurity core skills/stories/20250719.md",
-    "VPN.md",
-    "5f04259cf9bf5b57aed2c476-1721903568757.svg",
-    "5f04259cf9bf5b57aed2c476-1721903538365.svg",
+    "Cybersecurity core skills/networking/VPN.md",
     "Cybersecurity core skills/protocols/SFTP.md",
     "Cybersecurity core skills/protocols/FTP.md",
     "Cybersecurity core skills/protocols/SMTP.md",
     "Cybersecurity core skills/protocols/SSH.md",
-    "Cybersecurity core skills/protocols/HTTP.md",
-    "Cybersecurity core skills/protocols/TLS.md",
     "Cybersecurity core skills/protocols/IMAP.md",
-    "Pasted image 20250924122901.png",
     "Cybersecurity core skills/protocols/POP3.md",
     "Cybersecurity core skills/protocols/SNMP.md",
-    "Cybersecurity core skills/protocols/TCP.md",
     "Cybersecurity core skills/protocols/ICMP.md",
     "Cybersecurity core skills/protocols/DNS.md",
     "Cybersecurity core skills/protocols/ARP.md",
     "Cybersecurity core skills/protocols/UDP.md",
     "Cybersecurity core skills/Windows/Windows PowerShell.md",
     "Raw index.base",
-    "Cybersecurity core skills/models/OSI Model.md",
-    "Cybersecurity core skills/models/TCP IP Model.md",
-    "Cybersecurity core skills/models/OSI vs TCP IP model.md",
-    "Cybersecurity core skills/protocols/README.md",
-    "Cybersecurity core skills/hardware/hardware index.md",
     "Cybersecurity core skills/Windows",
-    "Business/images/Pasted image 20250718152721.png",
-    "images/osi-model.gif",
-    "images/Pasted image 20250924095321.png",
-    "images/osi-model 3.gif",
     "Cybersecurity core skills/models",
-    "Cybersecurity core skills/protocols/Untitled.base",
-    "PowerShell",
-    "Cybersecurity core skills/networking",
-    "Virtualization",
-    "Cybersecurity core skills/hardware",
-    "OS/topics"
+    "Cybersecurity core skills/protocols/Untitled.base"
   ]
 }

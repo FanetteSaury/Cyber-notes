@@ -6,6 +6,7 @@ HTTPS = HTTP over TLS
 1. Establish a TCP 3-way handshake with the target server
 2. Establish a TLS session
 3. Communicate using the HTTP protocol. For ex. issue HTTP requests.
+**=> The reason the TLS encryption doesn't happen first is because TLS is an application layer protocol that requires a reliable transport channel (TCP) to be established first.** ❗(25/09/25)
 ### Encrypted packets example
 The screenshot below shows that a TCP session is established in the first three packets, marked with `1`. Then, several packets are exchanged to negotiate the TLS protocol, marked with `2`. `1` and `2` are where the **TLS negotiation and establishment** take place.
 

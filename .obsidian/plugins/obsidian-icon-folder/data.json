@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🖥",
-      "💰",
-      "🚔",
-      "LiTruck",
-      "LiComputer"
+      "LiExperiment",
+      "🦈",
+      "LiForkKnifeCrossed",
+      "LiKeyRound",
+      "🖥"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,9 @@
   "OS": "🖥",
   "Cybersecurity core skills/protocols": "LiTruck",
   "Cybersecurity core skills/hardware": "LiComputer",
-  "Cybersecurity core skills/networking": "LiAtom"
+  "Cybersecurity core skills/networking": "LiAtom",
+  "Cybersecurity core skills/Cryptography": "LiKeyRound",
+  "Cybersecurity core skills/tools": "LiForkKnifeCrossed",
+  "Cybersecurity core skills/tools/Wireshark": "🦈",
+  "Cybersecurity core skills/tools/Tcpdump": "LiExperiment"
 }

@@ -1,0 +1,2 @@
+#THM #Cybersecurity101 #Cybersecurity101-Cryptography
+John the Ripper is a free and open-source password-cracking tool. It can crack passwords stored in various formats, including hashes, passwords, and encrypted private keys. It can be used to test passwords' security and recover lost passwords.
